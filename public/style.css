@@ -1,0 +1,47 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#navigation {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.hero-container {
+    text-align: center;
+    margin-top: 30px;
+}
+.main-wrapper {
+    display: flex;
+
+}
+.peggy {
+    max-width: 300px;
+    max-height: 500px;
+    padding-top: 50px;
+}
+
+.bio {
+    margin: 0 50px 0 50px;
+}
+
+.peggy-title {
+    text-align: center;
+    font-size: 72px;
+}
+
+.book {
+    display: flex;
+    margin-top: 20px;
+
+}
+
+.book-info {
+    margin: 20px
+
+}
+
+.book-img {
+    max-width: 120px;
+    max-height: 200px;
+}
